@@ -1,4 +1,4 @@
- git filter-branch --env-filter '
+ git filter-branch -f --env-filter '
     WRONG_EMAIL="jgarrett@kabbage.com"
 NEW_NAME="John Garrett"
 NEW_EMAIL="jacgarrett18@gmail.com"
