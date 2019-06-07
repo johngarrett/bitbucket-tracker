@@ -1,7 +1,3 @@
-#### General
-
-I use bitbucket at work, watching my contribution graph die out was stressing me out. instead of working more, i just imported obsficated commits from bitbucket. yes, i'm that vain.
-
 **This is a mock repository.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
