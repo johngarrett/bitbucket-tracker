@@ -1,4 +1,3 @@
-
 import git
 from git_contributions_importer import *
 
