@@ -16,3 +16,4 @@ fi
 ' --tag-name-filter cat -- --branches --tags
 echo "pwdfw"
 echo "cmjne"
+echo "xvfim"
