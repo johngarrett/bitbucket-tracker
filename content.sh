@@ -14,6 +14,4 @@ then
     export GIT_AUTHOR_EMAIL="$NEW_EMAIL"
 fi
 ' --tag-name-filter cat -- --branches --tags
-echo "pwdfw"
-echo "cmjne"
-echo "aiqwr"
+
