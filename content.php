@@ -21,5 +21,4 @@
         echo "btjie";
         echo "ibuxr";
         echo "rvffr";
-        echo "ijohj";
 ?>
