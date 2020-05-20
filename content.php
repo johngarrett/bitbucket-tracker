@@ -9,5 +9,4 @@
         echo "slveh";
         echo "boyiw";
         echo "tpnaj";
-        echo "jypqm";
 ?>
