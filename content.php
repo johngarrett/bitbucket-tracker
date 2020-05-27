@@ -20,5 +20,4 @@
         echo "scoxl";
         echo "btjie";
         echo "ibuxr";
-        echo "hpnhn";
 ?>
