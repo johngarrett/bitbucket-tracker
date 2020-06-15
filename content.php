@@ -7,5 +7,4 @@
         echo "noebe";
         echo "mtdgs";
         echo "jxxax";
-        echo "wealb";
 ?>
