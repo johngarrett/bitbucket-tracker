@@ -18,5 +18,4 @@
         echo "dghku";
         echo "sauct";
         echo "mppfr";
-        echo "rmqxw";
 ?>
