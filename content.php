@@ -29,5 +29,4 @@
         echo "gqylo";
         echo "jagij";
         echo "qdetp";
-        echo "ofoaf";
 ?>
