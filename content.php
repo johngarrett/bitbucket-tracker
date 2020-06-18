@@ -17,5 +17,4 @@
         echo "answe";
         echo "dghku";
         echo "sauct";
-        echo "cutir";
 ?>
