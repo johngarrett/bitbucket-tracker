@@ -30,5 +30,4 @@
         echo "jagij";
         echo "qdetp";
         echo "dnene";
-        echo "npjkb";
 ?>
