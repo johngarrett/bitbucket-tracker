@@ -36,5 +36,4 @@
         echo "hbbob";
         echo "froxs";
         echo "pacby";
-        echo "cvsnn";
 ?>
