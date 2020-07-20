@@ -35,5 +35,4 @@
         echo "rogbd";
         echo "hbbob";
         echo "froxs";
-        echo "pacby";
 ?>
