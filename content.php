@@ -37,5 +37,4 @@
         echo "xypau";
         echo "ihpfh";
         echo "jsckx";
-        echo "iiisj";
 ?>
