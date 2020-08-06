@@ -58,5 +58,4 @@
         echo "rqwkr";
         echo "pgjmc";
         echo "ktscp";
-        echo "vijjd";
 ?>
